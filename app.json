@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "whoisonduty",
+    "slug": "whoisonduty",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "whoisonduty"
+}
