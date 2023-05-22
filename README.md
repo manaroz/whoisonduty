@@ -29,12 +29,16 @@ whoisonduty - aplikacja wykonana w ramach studiów w technologii natywnej React 
 ## Setup
 
 Zainstaluj odpowiednie pakiety.
-Uruchom program:
+Uruchom po raz pierwszy:
 ```
 npx create-expo-app AwesomeProject
 
 cd AwesomeProject
 npx expo start
+```
+Uruchom emulator android:
+```
+npm run android
 ```
 
 ## Autor
